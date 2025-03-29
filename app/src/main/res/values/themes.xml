@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme -->
+    <style name="Theme.THDT_QuangTran" parent="Theme.Material3.Light.NoActionBar">
+
+        <item name="colorPrimary">#2196F3</item>
+        <item name="colorPrimaryVariant">#1976D2</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorSecondary">#757575</item>
+        <item name="colorAccent">#2196F3</item>
+        <item name="colorSecondaryVariant">#1976D2</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+        <item name="colorSurface">#FFFFFF</item>
+        <item name="colorOnSurface">#212121</item>
+        <item name="colorSecondaryContainer">#B3E5FC</item>
+        <item name="android:statusBarColor">#2196F3</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

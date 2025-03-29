@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">THDT_QuangTran</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="employee_avatar">Employee Avatar</string>
+    <string name="select_avatar">Select Avatar</string>
+    <string name="add_employee">Thêm nhân viên</string>
+    <string name="update_employee">Cập nhật nhân viên</string>
+    <string name="delete_account">Xóa tài khoản</string>
+    <string name="name_hint">Tên nhân viên</string>
+    <string name="cccd_hint">CCCD</string>
+    <string name="birth_date_hint">Ngày sinh (dd/MM/yyyy)</string>
+    <string name="gender_hint">Giới tính</string>
+    <string name="phone_hint">Số điện thoại</string>
+    <string name="email_hint">Email</string>
+    <string name="address_hint">Địa chỉ</string>
+    <string name="position_hint">Chức vụ</string>
+    <string name="start_date_hint">Ngày vào làm (dd/MM/yyyy)</string>
+    <string name="username_hint">Tên đăng nhập</string>
+    <string name="password_hint">Mật khẩu</string>
+    <string name="forward_icon">Forward Icon</string>
+    <string name="customer_avatar">Customer Avatar</string>
+    <string name="todo">TODO</string>
+    <string name="giam">Giảm</string>
+    <string name="tang">Tăng</string>
+</resources>

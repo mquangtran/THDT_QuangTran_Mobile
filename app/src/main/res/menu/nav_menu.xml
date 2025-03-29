@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dashboard"
+            android:icon="@drawable/ic_dashboard"
+            android:title="Dashboard" />
+        <item
+            android:id="@+id/nav_products"
+            android:icon="@drawable/ic_product"
+            android:title="Product Management" />
+        <item
+            android:id="@+id/nav_customers"
+            android:icon="@drawable/ic_customer"
+            android:title="Customer Management" />
+        <item
+            android:id="@+id/nav_employees"
+            android:icon="@drawable/ic_employee"
+            android:title="Employee Management" />
+        <item
+            android:id="@+id/nav_orders"
+            android:icon="@drawable/ic_order"
+            android:title="Order Management" />
+        <item
+            android:id="@+id/nav_promotions"
+            android:icon="@drawable/ic_promotion"
+            android:title="Promotions Management" />
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Logout" />
+    </group>
+</menu>
