@@ -5,7 +5,7 @@ The "Quang Tran IT-Electronics Store Management" project is a mobile application
 
 - **Created Date**: March 2025
 - **Current Version**: 1.0.0
-- **Author**: [Your Name or Team Name]
+- **Author**: Quang Tran
 - **Platform**: Android (supports API 26 and above)
 
 ## Key Features
